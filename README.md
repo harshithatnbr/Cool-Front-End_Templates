@@ -1,6 +1,6 @@
 # Cool-Front-End_Templates
 
-Will Add some cool templates in it
+Will Add some Cool templates in it
 
  ### 💻 Tech Stack
 ### Front-End:
@@ -127,16 +127,5 @@ Thanks go to these **Wonderful People** 👨🏻‍💻:      🚀 **Contributio
 <hr>
 
 <h1 align=center>Happy Coding 👨‍💻 </h1>
-
-
-
-
-
-
-
-
-
-
-
 
 show some ❤️&nbsp; by giving the star to this repo
